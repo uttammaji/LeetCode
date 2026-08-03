@@ -8,6 +8,7 @@ LeetCode Problem Solving History save
 | ------- |
 | [0001-two-sum](https://github.com/uttammaji/LeetCode/tree/master/0001-two-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/uttammaji/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1929-concatenation-of-array](https://github.com/uttammaji/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/uttammaji/LeetCode/tree/master/1009-complement-of-base-10-integer) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/uttammaji/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
