@@ -202,5 +202,27 @@ void explainQueue() {
 
 
 
+void explainPriorityQueue() {
+    priority_queue<int> pq;
+
+    pq.push(1);    // {1}
+    pq.push(2);    // {2, 1}
+    pq.push(3);    // {3, 1, 2}
+    pq.push(4);    // {4, 3, 2, 1}
+    pq.emplace(5); // {5, 4, 3, 2, 1}
+
+    cout << pq.top(); // prints 5
+    // pq[2] is invalid
+
+    pq.pop(); // removes 5
+
+    cout << pq.top();  // 4
+    cout << pq.size(); // 4
+    cout << pq.empty(); // 0
+
+    priority_queue<int> pq1, pq2;
+    pq1.swap(pq2);
+}
+
     
 
