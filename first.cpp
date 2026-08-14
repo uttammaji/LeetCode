@@ -224,5 +224,28 @@ void explainPriorityQueue() {
     pq1.swap(pq2);
 }
 
+
+void explainMinHeap() {
+    priority_queue<int, vector<int>, greater<int>> pq;
+
+    pq.push(1);    // {1}
+    pq.push(2);    // {1, 2}
+    pq.push(3);    // {1, 2, 3}
+    pq.push(4);    // {1, 2, 3, 4}
+    pq.emplace(5); // {1, 2, 3, 4, 5}
+
+    cout << pq.top(); // prints 1
+
+    pq.pop(); // removes 1
+
+    cout << pq.top();   // 2
+    cout << pq.size();  // 4
+    cout << pq.empty(); // 0
+
+    priority_queue<int, vector<int>, greater<int>> pq1, pq2;
+    pq1.swap(pq2);
+}
+
+
     
 
