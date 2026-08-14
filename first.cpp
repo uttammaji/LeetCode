@@ -246,6 +246,44 @@ void explainMinHeap() {
     pq1.swap(pq2);
 }
 
+void explainSet() {
+    set<int> st;
 
+    st.insert(1);    // {1}
+    st.insert(2);    // {1, 2}
+    st.insert(3);    // {1, 2, 3}
+    st.insert(4);    // {1, 2, 3, 4}
+    st.emplace(5);   // {1, 2, 3, 4, 5}
+
+    // Duplicate values are not stored
+    st.insert(3);    // {1, 2, 3, 4, 5}
+
+    cout << st.size();   // 5
+    cout << st.empty();  // 0
+
+    // Find an element
+    auto it = st.find(3);
+
+    if (it != st.end()) {
+        cout << "Element found";
+    }
+
+    // Count an element
+    cout << st.count(3); // 1
+    cout << st.count(10); // 0
+
+    // Erase an element
+    st.erase(3); // {1, 2, 4, 5}
+
+    // First and last elements
+    cout << *st.begin();   // 1
+    cout << *st.rbegin();  // 5
+
+    // Clear the set
+    st.clear();
+
+    set<int> st1, st2;
+    st1.swap(st2);
+}
     
 
