@@ -177,6 +177,29 @@ void explainStack() {
     st1.swap(st2);
 }
 
+void explainQueue() {
+    queue<int> q;
+
+    q.push(1);    // {1}
+    q.push(2);    // {1, 2}
+    q.push(3);    // {1, 2, 3}
+    q.push(4);    // {1, 2, 3, 4}
+    q.emplace(5); // {1, 2, 3, 4, 5}
+
+    cout << q.front(); // prints 1
+    // q[2] is invalid
+
+    q.pop(); // q looks like {2, 3, 4, 5}
+
+    cout << q.front(); // 2
+    cout << q.back();  // 5
+    cout << q.size();  // 4
+    cout << q.empty(); // 0
+
+    queue<int> q1, q2;
+    q1.swap(q2);
+}
+
 
 
     
