@@ -326,5 +326,19 @@ void explainMultiSet() {
     ms1.swap(ms2);
 }
 
-    
+void main() {
+
+    unordered_set<int> s;
+
+    // Insert
+    s.insert(10);
+    s.insert(20);
+    s.insert(30);
+    s.insert(10);   // Duplicate, will not be inserted
+
+    // Print
+    for (int x : s) {
+        cout << x << " ";
+    }
+}    
 
