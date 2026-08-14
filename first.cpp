@@ -469,6 +469,8 @@ void explain Mp() {
 
 }
 
+cout<<"helloWorld"<<endl;
+
 
 
 
@@ -536,7 +538,7 @@ void main(){
     mp.erase(3);
 
     // 9. erase(iterator)
-    auto del = mp.find(2);
+    // auto del = mp.find(2);
 
     if (del != mp.end()) {
         mp.erase(del);
