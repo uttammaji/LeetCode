@@ -470,3 +470,98 @@ void explain Mp() {
 }
 
 // mvmvn
+
+
+// Multi Map
+
+void main(){
+     multimap<int, string> mp;
+
+    // 1. insert()
+    mp.insert({1, "Uttam"});
+    mp.insert({2, "Rahul"});
+    mp.insert({1, "Amit"});
+    mp.insert({1, "Rohit"});
+    mp.insert({3, "Suman"});
+
+    // 2. Traverse
+    cout << "All elements:\n";
+
+    for (auto x : mp) {
+        cout << x.first << " -> " << x.second << endl;
+    }
+
+    // 3. find()
+    auto it = mp.find(1);
+
+    if (it != mp.end()) {
+        cout << "\nFound: "
+             << it->first << " -> "
+             << it->second << endl;
+    }
+
+    // 4. count()
+    cout << "\nNumber of values with key 1: "
+         << mp.count(1) << endl;
+
+    // 5. equal_range()
+    cout << "\nValues having key 1:\n";
+
+    auto range = mp.equal_range(1);
+
+    for (auto i = range.first; i != range.second; i++) {
+        cout << i->first << " -> " << i->second << endl;
+    }
+
+    // 6. lower_bound()
+    auto lb = mp.lower_bound(2);
+
+    if (lb != mp.end()) {
+        cout << "\nLower bound of 2: "
+             << lb->first << " -> "
+             << lb->second << endl;
+    }
+
+    // 7. upper_bound()
+    auto ub = mp.upper_bound(2);
+
+    if (ub != mp.end()) {
+        cout << "Upper bound of 2: "
+             << ub->first << " -> "
+             << ub->second << endl;
+    }
+
+    // 8. erase(key)
+    // Deletes ALL elements having key 3
+    mp.erase(3);
+
+    // 9. erase(iterator)
+    auto del = mp.find(2);
+
+    if (del != mp.end()) {
+        mp.erase(del);
+    }
+
+    // 10. size()
+    cout << "\nSize: " << mp.size() << endl;
+
+    // 11. empty()
+    cout << "Empty: "
+         << (mp.empty() ? "Yes" : "No") << endl;
+
+    // 12. begin()
+    cout << "First: "
+         << mp.begin()->first << " -> "
+         << mp.begin()->second << endl;
+
+    // 13. rbegin()
+    cout << "Last: "
+         << mp.rbegin()->first << " -> "
+         << mp.rbegin()->second << endl;
+
+    // 14. clear()
+    mp.clear();
+
+    cout << "After clear: " << mp.size() << endl;
+
+}
