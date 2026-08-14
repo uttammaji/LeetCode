@@ -340,5 +340,131 @@ void main() {
     for (int x : s) {
         cout << x << " ";
     }
-}    
+}
 
+// set              → unique + sorted
+// unordered_set    → unique + unordered
+
+// map              → key-value + sorted key
+// unordered_map    → key-value + unordered key
+
+// multiset         → duplicates + sorted
+// // multimap         → duplicate keys + sorted/
+
+
+
+void explain Mp() {
+
+    // Create map
+    map<int, string> mp;
+
+    // 1. insert()
+    mp.insert({1, "Uttam"});
+    mp.insert({2, "Rahul"});
+    mp.insert({3, "Amit"});
+
+    // 2. [] operator
+    mp[4] = "Rohit";
+
+    // 3. at()
+    cout << "Value at key 2: " << mp.at(2) << endl;
+
+    // 4. size()
+    cout << "Size: " << mp.size() << endl;
+
+    // 5. empty()
+    cout << "Empty: " << (mp.empty() ? "Yes" : "No") << endl;
+
+    // 6. find()
+    auto it = mp.find(2);
+
+    if (it != mp.end()) {
+        cout << "Found: " << it->first << " -> " << it->second << endl;
+    }
+
+    // 7. count()
+    if (mp.count(3)) {
+        cout << "Key 3 exists" << endl;
+    }
+
+    // 8. begin()
+    cout << "First element: "
+         << mp.begin()->first << " -> "
+         << mp.begin()->second << endl;
+
+    // 9. rbegin()
+    cout << "Last element: "
+         << mp.rbegin()->first << " -> "
+         << mp.rbegin()->second << endl;
+
+    // 10. lower_bound()
+    auto lb = mp.lower_bound(2);
+
+    if (lb != mp.end()) {
+        cout << "Lower bound of 2: "
+             << lb->first << " -> "
+             << lb->second << endl;
+    }
+
+    // 11. upper_bound()
+    auto ub = mp.upper_bound(2);
+
+    if (ub != mp.end()) {
+        cout << "Upper bound of 2: "
+             << ub->first << " -> "
+             << ub->second << endl;
+    }
+
+    // 12. equal_range()
+    auto range = mp.equal_range(2);
+
+    cout << "Equal range of 2:" << endl;
+
+    for (auto i = range.first; i != range.second; i++) {
+        cout << i->first << " -> " << i->second << endl;
+    }
+
+    // 13. Iterate using iterator
+    cout << "\nUsing iterator:" << endl;
+
+    for (auto i = mp.begin(); i != mp.end(); i++) {
+        cout << i->first << " -> " << i->second << endl;
+    }
+
+    // 14. Iterate using range-based loop
+    cout << "\nRange-based loop:" << endl;
+
+    for (auto x : mp) {
+        cout << x.first << " -> " << x.second << endl;
+    }
+
+    // 15. erase(key)
+    mp.erase(4);
+
+    // 16. erase(iterator)
+    auto del = mp.find(3);
+
+    if (del != mp.end()) {
+        mp.erase(del);
+    }
+
+    // 17. swap()
+    map<int, string> mp2;
+
+    mp2[10] = "Java";
+    mp2[20] = "C++";
+
+    mp.swap(mp2);
+
+    cout << "\nAfter swap:" << endl;
+
+    for (auto x : mp) {
+        cout << x.first << " -> " << x.second << endl;
+    }
+
+    // 18. clear()
+    mp.clear();
+
+    cout << "\nAfter clear, size: " << mp.size() << endl;
+
+}
