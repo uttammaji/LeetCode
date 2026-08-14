@@ -285,5 +285,46 @@ void explainSet() {
     set<int> st1, st2;
     st1.swap(st2);
 }
+
+void explainMultiSet() {
+    multiset<int> ms;
+
+    ms.insert(1);    // {1}
+    ms.insert(2);    // {1, 2}
+    ms.insert(3);    // {1, 2, 3}
+    ms.insert(3);    // {1, 2, 3, 3}
+    ms.insert(3);    // {1, 2, 3, 3, 3}
+    ms.emplace(4);   // {1, 2, 3, 3, 3, 4}
+
+    // Duplicate values are allowed
+    ms.insert(2);    // {1, 2, 2, 3, 3, 3, 4}
+
+    cout << ms.size();   // 7
+    cout << ms.empty();  // 0
+
+    // Find an element
+    auto it = ms.find(3);
+
+    if (it != ms.end()) {
+        cout << "Element found";
+    }
+
+    // Count occurrences
+    cout << ms.count(3); // 3
+
+    // Erase ALL occurrences of 3
+    ms.erase(3); // removes all 3s
+
+    // First and last elements
+    cout << *ms.begin();
+    cout << *ms.rbegin();
+
+    // Clear the multiset
+    ms.clear();
+
+    multiset<int> ms1, ms2;
+    ms1.swap(ms2);
+}
+
     
 
