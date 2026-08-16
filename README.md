@@ -7,6 +7,7 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uttammaji/LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/uttammaji/LeetCode/tree/master/0053-maximum-subarray) |
 | [0485-max-consecutive-ones](https://github.com/uttammaji/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1207-unique-number-of-occurrences](https://github.com/uttammaji/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/uttammaji/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -38,4 +39,12 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/uttammaji/LeetCode/tree/master/1929-concatenation-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/uttammaji/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/uttammaji/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
