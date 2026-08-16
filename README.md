@@ -8,6 +8,7 @@ LeetCode Problem Solving History save
 | ------- |
 | [0001-two-sum](https://github.com/uttammaji/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/uttammaji/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/uttammaji/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1207-unique-number-of-occurrences](https://github.com/uttammaji/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/uttammaji/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -16,6 +17,7 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uttammaji/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/uttammaji/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Linked List
 |  |
@@ -43,8 +45,21 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/uttammaji/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/uttammaji/LeetCode/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
