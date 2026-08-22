@@ -16,6 +16,7 @@ LeetCode Problem Solving History save
 | [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/uttammaji/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/uttammaji/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/uttammaji/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/uttammaji/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/uttammaji/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/uttammaji/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -92,5 +93,10 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/uttammaji/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uttammaji/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/uttammaji/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
