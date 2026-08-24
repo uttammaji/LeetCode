@@ -13,6 +13,7 @@ LeetCode Problem Solving History save
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uttammaji/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uttammaji/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/uttammaji/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/uttammaji/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/uttammaji/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/uttammaji/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -47,6 +48,7 @@ LeetCode Problem Solving History save
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/uttammaji/LeetCode/tree/master/0136-single-number) |
 | [1009-complement-of-base-10-integer](https://github.com/uttammaji/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Simulation
 |  |
