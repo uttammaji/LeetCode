@@ -24,12 +24,14 @@ LeetCode Problem Solving History save
 | [1470-shuffle-the-array](https://github.com/uttammaji/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/uttammaji/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uttammaji/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/uttammaji/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uttammaji/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/uttammaji/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/uttammaji/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +54,7 @@ LeetCode Problem Solving History save
 | [0136-single-number](https://github.com/uttammaji/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/uttammaji/LeetCode/tree/master/0137-single-number-ii) |
 | [1009-complement-of-base-10-integer](https://github.com/uttammaji/LeetCode/tree/master/1009-complement-of-base-10-integer) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/uttammaji/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Simulation
 |  |
 | ------- |
