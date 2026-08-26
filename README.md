@@ -29,6 +29,7 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uttammaji/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/uttammaji/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/uttammaji/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/uttammaji/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -42,6 +43,7 @@ LeetCode Problem Solving History save
 | [0002-add-two-numbers](https://github.com/uttammaji/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/uttammaji/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/uttammaji/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/uttammaji/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/uttammaji/LeetCode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -108,4 +110,8 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/uttammaji/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/uttammaji/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
