@@ -14,6 +14,7 @@ LeetCode Problem Solving History save
 | [0031-next-permutation](https://github.com/uttammaji/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/uttammaji/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/uttammaji/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/uttammaji/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uttammaji/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -71,6 +72,7 @@ LeetCode Problem Solving History save
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/uttammaji/LeetCode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/uttammaji/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -168,4 +170,8 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/uttammaji/LeetCode/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/uttammaji/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
