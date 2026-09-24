@@ -73,6 +73,7 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/uttammaji/LeetCode/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/uttammaji/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/uttammaji/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -142,6 +143,7 @@ LeetCode Problem Solving History save
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uttammaji/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/uttammaji/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/uttammaji/LeetCode/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/uttammaji/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
 | ------- |
@@ -174,4 +176,8 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/uttammaji/LeetCode/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/uttammaji/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
