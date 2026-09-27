@@ -23,6 +23,7 @@ LeetCode Problem Solving History save
 | [0136-single-number](https://github.com/uttammaji/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/uttammaji/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/uttammaji/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/uttammaji/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/uttammaji/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -57,6 +58,7 @@ LeetCode Problem Solving History save
 | [0012-integer-to-roman](https://github.com/uttammaji/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/uttammaji/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/uttammaji/LeetCode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/uttammaji/LeetCode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -191,4 +193,24 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/uttammaji/LeetCode/tree/master/0567-permutation-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/uttammaji/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/uttammaji/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/uttammaji/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/uttammaji/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/uttammaji/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
