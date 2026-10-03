@@ -31,6 +31,7 @@ LeetCode Problem Solving History save
 | [1207-unique-number-of-occurrences](https://github.com/uttammaji/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/uttammaji/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/uttammaji/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1975-maximum-matrix-sum](https://github.com/uttammaji/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uttammaji/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/uttammaji/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
@@ -110,6 +111,7 @@ LeetCode Problem Solving History save
 | ------- |
 | [0011-container-with-most-water](https://github.com/uttammaji/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uttammaji/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1975-maximum-matrix-sum](https://github.com/uttammaji/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +187,7 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/uttammaji/LeetCode/tree/master/0054-spiral-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/uttammaji/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Stack
 |  |
 | ------- |
