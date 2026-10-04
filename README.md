@@ -15,6 +15,7 @@ LeetCode Problem Solving History save
 | [0033-search-in-rotated-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/uttammaji/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/uttammaji/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/uttammaji/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/uttammaji/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uttammaji/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -135,6 +136,7 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/uttammaji/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/uttammaji/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uttammaji/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -187,6 +189,7 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/uttammaji/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/uttammaji/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/uttammaji/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Stack
 |  |
