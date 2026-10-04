@@ -1,0 +1,25 @@
+#include <vector>
+
+using namespace std;
+
+class Solution {
+public:
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+        // Handle empty matrix edge case safely
+        if (matrix.empty() || matrix[0].empty()) return false;
+
+        int m = matrix.size(), n = matrix[0].size();
+
+        int r = 0, c = n - 1;
+        while(r < m && c >= 0){
+            if(target == matrix[r][c]){
+                return true;
+            } else if(target < matrix[r][c]){
+                c--; // Move left
+            } else {
+                r++; // Move down
+            }
+        }
+        return false;
+    }
+};
