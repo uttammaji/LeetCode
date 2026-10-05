@@ -15,6 +15,7 @@ LeetCode Problem Solving History save
 | [0033-search-in-rotated-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/uttammaji/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/uttammaji/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/uttammaji/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/uttammaji/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/uttammaji/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/uttammaji/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/uttammaji/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/uttammaji/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/uttammaji/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
@@ -192,6 +194,7 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/uttammaji/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/uttammaji/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/uttammaji/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uttammaji/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1975-maximum-matrix-sum](https://github.com/uttammaji/LeetCode/tree/master/1975-maximum-matrix-sum) |
