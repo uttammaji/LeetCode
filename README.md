@@ -36,6 +36,7 @@ LeetCode Problem Solving History save
 | [1929-concatenation-of-array](https://github.com/uttammaji/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/uttammaji/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uttammaji/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/uttammaji/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/uttammaji/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ LeetCode Problem Solving History save
 | [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/uttammaji/LeetCode/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/uttammaji/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [2965-find-missing-and-repeated-values](https://github.com/uttammaji/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/uttammaji/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Linked List
 |  |
@@ -63,6 +65,7 @@ LeetCode Problem Solving History save
 | [0013-roman-to-integer](https://github.com/uttammaji/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/uttammaji/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/uttammaji/LeetCode/tree/master/0204-count-primes) |
+| [2965-find-missing-and-repeated-values](https://github.com/uttammaji/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -198,6 +201,7 @@ LeetCode Problem Solving History save
 | [0074-search-a-2d-matrix](https://github.com/uttammaji/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uttammaji/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1975-maximum-matrix-sum](https://github.com/uttammaji/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/uttammaji/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
