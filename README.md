@@ -32,6 +32,7 @@ LeetCode Problem Solving History save
 | [0287-find-the-duplicate-number](https://github.com/uttammaji/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/uttammaji/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/uttammaji/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/uttammaji/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/uttammaji/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/uttammaji/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -47,6 +48,7 @@ LeetCode Problem Solving History save
 | [0012-integer-to-roman](https://github.com/uttammaji/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/uttammaji/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/uttammaji/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/uttammaji/LeetCode/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/uttammaji/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2965-find-missing-and-repeated-values](https://github.com/uttammaji/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -145,6 +147,7 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/uttammaji/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/uttammaji/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
