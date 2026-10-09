@@ -100,6 +100,7 @@ LeetCode Problem Solving History save
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/uttammaji/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/uttammaji/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uttammaji/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uttammaji/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -129,6 +130,7 @@ LeetCode Problem Solving History save
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/uttammaji/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/uttammaji/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/uttammaji/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -165,6 +167,7 @@ LeetCode Problem Solving History save
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/uttammaji/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/uttammaji/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/uttammaji/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/uttammaji/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -248,4 +251,8 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/uttammaji/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/uttammaji/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
