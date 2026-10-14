@@ -16,6 +16,7 @@ LeetCode Problem Solving History save
 | [0033-search-in-rotated-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/uttammaji/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uttammaji/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/uttammaji/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/uttammaji/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/uttammaji/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/uttammaji/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -274,6 +275,11 @@ LeetCode Problem Solving History save
 | ------- |
 | [0046-permutations](https://github.com/uttammaji/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uttammaji/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/uttammaji/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/uttammaji/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/uttammaji/LeetCode/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/uttammaji/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
