@@ -14,6 +14,7 @@ LeetCode Problem Solving History save
 | [0027-remove-element](https://github.com/uttammaji/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/uttammaji/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/uttammaji/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/uttammaji/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uttammaji/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/uttammaji/LeetCode/tree/master/0051-n-queens) |
@@ -52,6 +53,7 @@ LeetCode Problem Solving History save
 | [0001-two-sum](https://github.com/uttammaji/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/uttammaji/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/uttammaji/LeetCode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/uttammaji/LeetCode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/uttammaji/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/uttammaji/LeetCode/tree/master/0567-permutation-in-string) |
@@ -220,6 +222,7 @@ LeetCode Problem Solving History save
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/uttammaji/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/uttammaji/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/uttammaji/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/uttammaji/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -273,6 +276,7 @@ LeetCode Problem Solving History save
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/uttammaji/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/uttammaji/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uttammaji/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/uttammaji/LeetCode/tree/master/0051-n-queens) |
@@ -281,5 +285,10 @@ LeetCode Problem Solving History save
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/uttammaji/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/uttammaji/LeetCode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/uttammaji/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
