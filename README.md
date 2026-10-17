@@ -48,6 +48,7 @@ LeetCode Problem Solving History save
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uttammaji/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/uttammaji/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/uttammaji/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/uttammaji/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ LeetCode Problem Solving History save
 | [1207-unique-number-of-occurrences](https://github.com/uttammaji/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2965-find-missing-and-repeated-values](https://github.com/uttammaji/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/uttammaji/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/uttammaji/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -127,6 +129,7 @@ LeetCode Problem Solving History save
 | [0075-sort-colors](https://github.com/uttammaji/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/uttammaji/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting
 |  |
 | ------- |
