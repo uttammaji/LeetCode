@@ -16,6 +16,7 @@ LeetCode Problem Solving History save
 | [0033-search-in-rotated-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/uttammaji/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/uttammaji/LeetCode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/uttammaji/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/uttammaji/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uttammaji/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/uttammaji/LeetCode/tree/master/0051-n-queens) |
@@ -56,6 +57,7 @@ LeetCode Problem Solving History save
 | [0012-integer-to-roman](https://github.com/uttammaji/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/uttammaji/LeetCode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/uttammaji/LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/uttammaji/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/uttammaji/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/uttammaji/LeetCode/tree/master/0567-permutation-in-string) |
