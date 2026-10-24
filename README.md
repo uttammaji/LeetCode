@@ -82,6 +82,7 @@ LeetCode Problem Solving History save
 | [0050-powx-n](https://github.com/uttammaji/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/uttammaji/LeetCode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/uttammaji/LeetCode/tree/master/0509-fibonacci-number) |
+| [2409-count-days-spent-together](https://github.com/uttammaji/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/uttammaji/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -200,6 +201,7 @@ LeetCode Problem Solving History save
 | [0443-string-compression](https://github.com/uttammaji/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/uttammaji/LeetCode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/uttammaji/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2409-count-days-spent-together](https://github.com/uttammaji/LeetCode/tree/master/2409-count-days-spent-together) |
 ## Trie
 |  |
 | ------- |
