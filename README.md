@@ -193,6 +193,7 @@ LeetCode Problem Solving History save
 | [0012-integer-to-roman](https://github.com/uttammaji/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/uttammaji/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/uttammaji/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/uttammaji/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uttammaji/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/uttammaji/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/uttammaji/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -243,6 +244,7 @@ LeetCode Problem Solving History save
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/uttammaji/LeetCode/tree/master/0020-valid-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/uttammaji/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -304,4 +306,8 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/uttammaji/LeetCode/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/uttammaji/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
