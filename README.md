@@ -48,6 +48,7 @@ LeetCode Problem Solving History save
 | [1929-concatenation-of-array](https://github.com/uttammaji/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/uttammaji/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uttammaji/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2596-check-knight-tour-configuration](https://github.com/uttammaji/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/uttammaji/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/uttammaji/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/uttammaji/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -110,6 +111,7 @@ LeetCode Problem Solving History save
 | [0059-spiral-matrix-ii](https://github.com/uttammaji/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/uttammaji/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/uttammaji/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2596-check-knight-tour-configuration](https://github.com/uttammaji/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -243,6 +245,7 @@ LeetCode Problem Solving History save
 | [0074-search-a-2d-matrix](https://github.com/uttammaji/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uttammaji/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1975-maximum-matrix-sum](https://github.com/uttammaji/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2596-check-knight-tour-configuration](https://github.com/uttammaji/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/uttammaji/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
@@ -315,4 +318,12 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/uttammaji/LeetCode/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/uttammaji/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/uttammaji/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
