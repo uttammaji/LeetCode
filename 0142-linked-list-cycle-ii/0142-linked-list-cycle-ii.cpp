@@ -24,11 +24,13 @@ public:
         if(!isCycle)return NULL;
 
         slow=head;
+        // ListNode* prev=NULL;
         while(slow!=fast){
             slow=slow->next;
+            // prev=fast;
             fast=fast->next;
         }
-
+        // prev->next=NULL;// Remove the cycle;
         return slow;
     }
 };
