@@ -15,6 +15,7 @@ LeetCode Problem Solving History save
 | [0027-remove-element](https://github.com/uttammaji/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/uttammaji/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/uttammaji/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/uttammaji/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/uttammaji/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -192,6 +193,7 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/uttammaji/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uttammaji/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/uttammaji/LeetCode/tree/master/0287-find-the-duplicate-number) |
