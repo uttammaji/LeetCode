@@ -11,32 +11,19 @@
 
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        // Create a dummy node to act as the anchor point for the new list
-        ListNode dummy(0);
-        ListNode* tail = &dummy;
+    ListNode* mergeTwoLists(ListNode* h1, ListNode* h2) {
+        if(h1==NULL || h2==NULL){
+            return h1==NULL? h2 : h1;
 
-        // Traverse both lists until one runs out
-        while (list1 != nullptr && list2 != nullptr) {
-            if (list1->val <= list2->val) {
-                tail->next = list1;
-                list1 = list1->next;
-            } else {
-                tail->next = list2;
-                list2 = list2->next;
-            }
-            // Move the tail pointer forward
-            tail = tail->next;
         }
 
-        // Attach the remaining nodes of the list that isn't empty
-        if (list1 != nullptr) {
-            tail->next = list1;
-        } else {
-            tail->next = list2;
+        if(h1->val <= h2->val){
+            h1->next = mergeTwoLists(h1->next,h2);
+            return h1;
+        }else{
+             h2->next = mergeTwoLists(h1,h2->next);
+             return h2;
         }
 
-        // The actual head is next to the dummy node
-        return dummy.next;
-    }
+}
 };
