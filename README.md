@@ -352,4 +352,8 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/uttammaji/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+## Database
+|  |
+| ------- |
+| [1341-movie-rating](https://github.com/uttammaji/LeetCode/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
