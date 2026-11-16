@@ -85,6 +85,7 @@ LeetCode Problem Solving History save
 | [0142-linked-list-cycle-ii](https://github.com/uttammaji/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/uttammaji/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/uttammaji/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/uttammaji/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/uttammaji/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -347,6 +348,7 @@ LeetCode Problem Solving History save
 ## Depth-First Search
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/uttammaji/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/uttammaji/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -356,4 +358,8 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [1341-movie-rating](https://github.com/uttammaji/LeetCode/tree/master/1341-movie-rating) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/uttammaji/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
