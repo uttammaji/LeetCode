@@ -42,6 +42,7 @@ LeetCode Problem Solving History save
 | [0240-search-a-2d-matrix-ii](https://github.com/uttammaji/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/uttammaji/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/uttammaji/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/uttammaji/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/uttammaji/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/uttammaji/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -68,6 +69,7 @@ LeetCode Problem Solving History save
 | [0141-linked-list-cycle](https://github.com/uttammaji/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/uttammaji/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/uttammaji/LeetCode/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/uttammaji/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/uttammaji/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/uttammaji/LeetCode/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/uttammaji/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -281,6 +283,7 @@ LeetCode Problem Solving History save
 | ------- |
 | [0020-valid-parentheses](https://github.com/uttammaji/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/uttammaji/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/uttammaji/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/uttammaji/LeetCode/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/uttammaji/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -376,6 +379,7 @@ LeetCode Problem Solving History save
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/uttammaji/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/uttammaji/LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
