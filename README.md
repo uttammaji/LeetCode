@@ -20,6 +20,7 @@ LeetCode Problem Solving History save
 | [0039-combination-sum](https://github.com/uttammaji/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/uttammaji/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/uttammaji/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/uttammaji/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/uttammaji/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uttammaji/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/uttammaji/LeetCode/tree/master/0051-n-queens) |
@@ -148,6 +149,7 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/uttammaji/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/uttammaji/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/uttammaji/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uttammaji/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uttammaji/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -191,6 +193,7 @@ LeetCode Problem Solving History save
 | [0027-remove-element](https://github.com/uttammaji/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uttammaji/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/uttammaji/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/uttammaji/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/uttammaji/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/uttammaji/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/uttammaji/LeetCode/tree/master/0125-valid-palindrome) |
@@ -287,6 +290,7 @@ LeetCode Problem Solving History save
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/uttammaji/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/uttammaji/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/uttammaji/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/uttammaji/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/uttammaji/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -388,6 +392,7 @@ LeetCode Problem Solving History save
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/uttammaji/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/uttammaji/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/uttammaji/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/uttammaji/LeetCode/tree/master/0503-next-greater-element-ii) |
